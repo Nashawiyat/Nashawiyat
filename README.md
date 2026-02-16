@@ -33,7 +33,7 @@ I build high-performance ML pipelines and AI systems with a focus on **Ethical A
 ---
 
 ### Connect with me
-- [LinkedIn]([https://www.linkedin.com/in/ahmed-al-ansi-967840300/])
+- LinkedIn: https://www.linkedin.com/in/ahmed-al-ansi-967840300/
 - Email: amedsrs10@gmail.com
 <!---
 Nashawiyat/Nashawiyat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
